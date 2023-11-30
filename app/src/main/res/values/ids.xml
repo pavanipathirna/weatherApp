@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="errortext" type="id" />
+    <item name="weatherText" type="id" />
+    <item name="sunrise" type="id" />
+    <item name="pressure" type="id" />
+    <item name="humidity" type="id" />
+</resources>
